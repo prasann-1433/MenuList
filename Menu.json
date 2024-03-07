@@ -1,0 +1,58 @@
+[
+     {
+         "name": "Korma",
+         "url": "<url>",
+         "menu-id": 1,
+         "menu-type": "Veg",
+         "menuType-id": 201
+     },
+     {
+         "name": "Shahi Paneer",
+         "url": "<url>",
+         "menu-id": 2,
+         "menu-type": "Veg",
+         "menuType-id": 201
+     },
+     {
+         "name": "Chicken-Korma",
+         "url": "<url>",
+         "menu-id": 3,
+         "menu-type": "Non-Veg",
+         "menuType-id": 202
+     },
+     {
+         "name": "Chicken do Pyaza",
+         "url": "<url>",
+         "menu-id": 4,
+         "menu-type": "Non-Veg",
+         "menuType-id": 202
+     },
+     {
+         "name": "Butter Naan",
+         "url": "<url>",
+         "menu-id": 2,
+         "menu-type": "Bread",
+         "menuType-id": 203
+     },
+     {
+         "name": "Chicken-Naan",
+         "url": "<url>",
+         "menu-id": 3,
+         "menu-type": "Bread",
+         "menuType-id": 203
+     },
+     {
+         "name": "Chicken-65",
+         "url": "<url>",
+         "menu-id": 4,
+         "menu-type": "Non-Veg Appetizer",
+         "menuType-id": 204
+     },
+      {
+         "name": "Chilly Chicken",
+         "url": "<url>",
+         "menu-id": 4,
+         "menu-type": "Non-Veg Appetizer",
+         "menuType-id": 204
+     }
+ ]
